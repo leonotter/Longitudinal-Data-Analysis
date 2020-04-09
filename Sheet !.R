@@ -2,8 +2,8 @@
 
 #preparing workspace
 
-setwd("C:/Users/Marx-Ottmüller/OneDrive/Hertie/Spring 2020/longitude/R")
-DAT01<-readRDS("C:/Users/Marx-Ottmüller/OneDrive/Hertie/Spring 2020/longitude/R/LEON.rds")
+setwd(".....longitude/R")
+DAT01<-readRDS("....longitude/R/LEON.rds")
 
 
 
